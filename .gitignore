@@ -1,4 +1,5 @@
+__pycache__/
+batch/
+.venv
 voice.mp3
 text.txt
-batch
-.venv
